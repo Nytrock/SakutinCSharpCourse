@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment", "Increment\Increment.csproj", "{803DC775-26FC-4DCD-B633-1904A81EEFA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageSystem", "DamageSystem\DamageSystem.csproj", "{5A25F5E3-802A-4202-B1A3-5A7FC9812919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{38FA4133-3550-4308-950A-513B5B8DB344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{803DC775-26FC-4DCD-B633-1904A81EEFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{803DC775-26FC-4DCD-B633-1904A81EEFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{803DC775-26FC-4DCD-B633-1904A81EEFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A25F5E3-802A-4202-B1A3-5A7FC9812919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A25F5E3-802A-4202-B1A3-5A7FC9812919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A25F5E3-802A-4202-B1A3-5A7FC9812919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A25F5E3-802A-4202-B1A3-5A7FC9812919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FA4133-3550-4308-950A-513B5B8DB344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FA4133-3550-4308-950A-513B5B8DB344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FA4133-3550-4308-950A-513B5B8DB344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FA4133-3550-4308-950A-513B5B8DB344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
